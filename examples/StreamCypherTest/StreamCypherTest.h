@@ -6,7 +6,7 @@
 
 using namespace Upp;
 
-#define LAYOUTFILE <StreamCypherTest/StreamCypherTest.lay>
+#define LAYOUTFILE <examples/StreamCypherTest/StreamCypherTest.lay>
 #include <CtrlCore/lay.h>
 
 class StreamCypherTest : public WithStreamCypherTestLayout<TopWindow>
